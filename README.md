@@ -16,7 +16,7 @@ Built to demonstrate production RAG techniques beyond basic vector search.
 
 **Results:**
 - ✅ Passages retrieved from **3 unique sources**
-- ✅ **80% citation rate** — every factual claim tagged [P1]–[P5]
+- ✅ **100% citation rate** — every factual claim tagged [P1]–[P5]
 - ✅ Answer honestly flags where context was insufficient (no hallucination)
 
 ---
