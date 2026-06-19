@@ -12,6 +12,7 @@ Built to demonstrate production RAG techniques beyond basic vector search.
 >
 > Sources: Wikipedia — Artificial Intelligence · Machine Learning · Large Language Models
 
+##  Demo video
 ![Demo](assets/demo.gif)
 
 **Results:**
