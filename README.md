@@ -15,7 +15,7 @@ built using production RAG engineering patterns typically found in AI platform t
 ![Demo](assets/demo.gif)
 
 > **Query:** *"How do machine learning and large language models relate to artificial intelligence?"*
-> **Result:** 5 passages retrieved across 3 sources · 80% citation rate · answer correctly
+> **Result:** 5 passages retrieved across 3 sources · 100% citation rate · answer correctly
 > acknowledges what the context does not cover rather than hallucinating.
 
 ---
