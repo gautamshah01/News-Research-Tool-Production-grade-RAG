@@ -198,7 +198,8 @@ Results print to terminal and are saved to `rag_eval_report.json`.
 │   └── workflows/
 │       └── rag_eval.yml          # CI workflow — gates merges on RAG metrics
 └── assets/
-    └── demo_screenshot.png       # Demo screenshot (replace with your own)
+    └── demo_video.mp4            # Demo video
+    └── demo.gif                  # Demo Gif
 ```
 
 ---
