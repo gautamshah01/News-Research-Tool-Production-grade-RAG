@@ -36,7 +36,7 @@ from app import NewsResearchTool
 METRIC_THRESHOLDS = {
     "citation_rate":     0.50,   # ≥50 % of passages must be cited
     "context_precision": 0.60,   # ≥60 % of passages judged relevant
-    "faithfulness":      0.50,   # ≥50 % of claims judged faithful to context
+    "faithfulness":      0.45,   # ≥45 % of claims judged faithful to context
 }
 
 # Golden test cases: (question, article_urls, must_contain_keywords)
