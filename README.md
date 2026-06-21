@@ -252,3 +252,5 @@ MIT — free to use, modify, and distribute.
 
 *Built to demonstrate production RAG engineering patterns:
 hybrid retrieval · reranking · citation enforcement · CI-gated evaluation.*
+
+
